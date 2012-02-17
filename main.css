@@ -1,0 +1,10 @@
+#game-canvas{
+	border:1px solid black;
+	margin:auto; display:block;
+	cursor:pointer;
+}
+
+#game-wrapper{
+	width:500px;
+	margin:auto;
+}
